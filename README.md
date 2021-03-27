@@ -20,11 +20,7 @@ Github\Tutorial.py
 
 I coded this script for educational purposes and to raise awareness of people...
 
-Today's network isn't that safe, and an AntiVirus or any other program isn't enough to protect ourselves from 
-
-those attackers on the internet. So I decided to make this simple tutorial to show you how
- 
-attackers can fool you with a simple script.
+Today's network isn't that safe, and an AntiVirus or any other program isn't enough to protect ourselves from those attackers on the internet. So I decided to make this simple tutorial to show you how attackers can fool you with a simple script.
 
 NOTE: Do not use this script illegally. I am not responsible for your behaviors !
 
