@@ -16,7 +16,7 @@ Github\Tutorial.py
 ```
 4-enjoy !
 
-
+----------
 
 I coded this script for educational purposes and to raise awareness of people...
 
@@ -26,8 +26,7 @@ Today's network isn't that safe, and an AntiVirus or any other program isn't eno
 
 #### Please remember that this script may be dangerous ! Do NOT run it unless you are absolutely sure of what you are doing! It is to be used only for educational purposes (and I mean that!) !!!
 
-
-
+----------
 
 #### Info
 Name: Chrome Pass Grab
